@@ -1,0 +1,23 @@
+.well-block {
+    background-color: #fff;
+    border: 1px solid #e9e6e8;
+    padding: 40px;
+}
+
+.well-title {
+    margin-bottom: 40px;
+}
+.alert{
+    text-align: center;
+    padding: 10px;
+    color: #ffff;
+    background: #79c879;
+    margin-bottom: 10px;
+    display: none;
+  }
+
+#buttons{
+    text-align: center;
+    padding: 10px;
+    padding-top: 10px;
+}
